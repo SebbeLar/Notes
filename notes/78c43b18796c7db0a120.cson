@@ -1,0 +1,39 @@
+type: "SNIPPET_NOTE"
+folder: "3bc2e5294a171f32f506"
+title: "Tmux"
+description: "Tmux"
+snippets: [
+  {
+    name: "tmux.md"
+    mode: "GitHub Flavored Markdown"
+    content: '''
+      ## tmux
+      
+      #### Windows & Tabs
+      |Command|Action|
+      |-------|------|
+      |`<prefix> c`|Create new window|
+      |`<prefix> w`|List windows|
+      |`<prefix> n`|Next window|
+      |`<prefix> p`|Previous window|
+      |`<prefix> f`|Find window|
+      |`<prefix> ,`|Name window|
+      |`<prefix> &`|Kill window|
+      
+      #### Panes & Splits
+      |Command|Action|
+      |-------|------|
+      |`<prefix> |`|Vertical split|
+      |`<prefix> -`|Horizontal split|
+      |`<prefix> h/j/k/l`|Swap pane left/down/up/right|
+      |`<prefix> x`|Kill pane|
+      
+      
+    '''
+  }
+]
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-11-08T13:37:43.038Z"
+updatedAt: "2017-11-08T13:44:15.923Z"

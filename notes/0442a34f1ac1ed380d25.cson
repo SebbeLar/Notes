@@ -9,12 +9,38 @@ snippets: [
     content: '''
       ## Homebrew
       
+      |Command|Action|
+      |-------|------|
+      |`brew install package`|Installs package|
+      |`brew upgrade package`|Upgrades package|
+      |`brew cleanup package`|Removes old versions of package|
+      |`brew home package`|Open homepage for package|
+      |`brew update`|Updates brew|
+      |`brew list`|List installed packages|
+      |`brew outdated`|List packages that has updates|
+      
+    '''
+  }
+  {
+    name: "snippets.md"
+    mode: "GitHub Flavored Markdown"
+    content: '''
+      ## Homebrew Snippets
+      
+      |Snippet|Action|
+      |-------|------|
+      |`brews`|`brew list -1`|
+      |`bubc`|`brew upgrade && brew cleanup`|
+      |`bubo`|`brew update && brew outdated`|
       
     '''
   }
 ]
-tags: []
+tags: [
+  "Homebrew"
+  "snippets"
+]
 isStarred: false
 isTrashed: false
 createdAt: "2017-11-07T14:33:26.856Z"
-updatedAt: "2017-11-07T14:34:19.686Z"
+updatedAt: "2017-11-08T13:16:31.062Z"
