@@ -1,0 +1,20 @@
+type: "SNIPPET_NOTE"
+folder: "3bc2e5294a171f32f506"
+title: "Homebrew"
+description: "Homebrew"
+snippets: [
+  {
+    name: "Homebrew.md"
+    mode: "GitHub Flavored Markdown"
+    content: '''
+      ## Homebrew
+      
+      
+    '''
+  }
+]
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-11-07T14:33:26.856Z"
+updatedAt: "2017-11-07T14:34:19.686Z"

@@ -1,0 +1,25 @@
+type: "MARKDOWN_NOTE"
+folder: "3bc2e5294a171f32f506"
+title: "Boostnote"
+content: '''
+  ## Boostnote
+  
+  |Keys|Behaviour|
+  |----|---------|
+  |Cmd + N| Add new note|
+  |Ctrl + E|Switch to editor mode on markdown|
+  |Ctrl + J|Move note down|
+  |Ctrl + S|Focus on search input|
+  |Ctrl + del|Delete the note|
+  |Cmd + alt + L|Toggle main|
+  |Cmd + alt + S|Toggle finder popup|
+  
+  
+'''
+tags: [
+  "Boostnote"
+]
+isStarred: false
+isTrashed: false
+createdAt: "2017-11-07T14:11:06.513Z"
+updatedAt: "2017-11-07T14:23:32.081Z"
