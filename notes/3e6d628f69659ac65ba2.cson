@@ -9,18 +9,45 @@ snippets: [
     content: '''
       ## Todo stuff to learn
       
-      - [ ] Headless Drupal/WP
-      - [ ] strapi.io
-      - [ ] RxJS
-      - [ ] D3
-      - [ ] FP (Ramda?)
-      - [ ] idreamofaxioms
-      - [ ] WP
-      - [ ] Gatsby JS
-      - [ ] Hugo
-      - [ ] SVG and animations
-      - [ ] Sass more complex
-      - [ ] Make mixins library
+      - Headless Drupal/WP
+        - [ ] In progress
+        - [ ] Done
+      - strapi.io
+        - [ ] In progress
+        - [ ] Done
+      - RxJS
+        - [x] In progress
+        - [ ] Done
+      - D3
+        - [ ] In progress
+        - [ ] Done
+      - FP (Ramda?)
+        - [ ] In progress
+        - [ ] Done
+      - idreamofaxioms
+        - [ ] In progress
+        - [ ] Done
+      - WP
+        - [ ] In progress
+        - [ ] Done
+      - Gatsby JS
+        - [ ] In progress
+        - [ ] Done
+      - Hugo
+        - [ ] In progress
+        - [ ] Done
+      - SVG and animations
+        - [x] In progress
+        - [ ] Done
+      - Sass more complex
+        - [ ] In progress
+        - [ ] Done
+      - Make mixins library
+        - [ ] In progress
+        - [ ] Done
+      - Post css and native css variables
+        - [ ] In progress
+        - [ ] Done
     '''
   }
 ]
@@ -28,4 +55,4 @@ tags: []
 isStarred: false
 isTrashed: false
 createdAt: "2017-11-08T13:59:21.384Z"
-updatedAt: "2017-11-08T14:03:47.808Z"
+updatedAt: "2017-11-09T00:10:45.099Z"
