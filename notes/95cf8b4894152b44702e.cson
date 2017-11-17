@@ -16,7 +16,13 @@ snippets: [
       5. Download Todoist
       6. Fix Wakatime integrate     vim/vscode/bitbucket/Chrome/browsers
       7. https://github.com/trevordmiller/shell-scripts/
-      8. 
+      8. Clone shell-scripts config start-work
+      9. Check on buying apps for UD budget
+      10. Setup reminders
+        - Turn off computer
+        - Organize Todos
+        - Write journal
+      11. 
     '''
   }
 ]
@@ -24,4 +30,4 @@ tags: []
 isStarred: false
 isTrashed: false
 createdAt: "2017-11-16T18:22:54.313Z"
-updatedAt: "2017-11-16T19:34:48.221Z"
+updatedAt: "2017-11-17T12:37:20.913Z"
