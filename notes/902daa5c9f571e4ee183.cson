@@ -1,0 +1,40 @@
+type: "SNIPPET_NOTE"
+folder: "3bc2e5294a171f32f506"
+title: "Todoist keybindings"
+description: "Todoist keybindings"
+snippets: [
+  {
+    name: "todoist.md"
+    mode: "GitHub Flavored Markdown"
+    content: '''
+      # Todoist keybindings
+      
+      #### Task Quick Add
+      |Command|Action|
+      |-------|------|
+      |`@`|Add a label|
+      |`#`|Pick a project|
+      |`p1-4`|Set priority|
+      
+      #### Anywhere in app
+      |Command|Action|
+      |-------|------|
+      |`q`|Add new task|
+      |`a`|Add new task bottom of list|
+      |`A`|Add new task top of list|
+      |`/`|Open search|
+      |`u`|Undo last action|
+      
+      #### Global
+      |Command|Action|
+      |-------|------|
+      |`Ctrl + Cmd + T`|Show/hide Todoist|
+      |`Ctrl + Cmd + A`|Open task Quick Add|
+    '''
+  }
+]
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-11-19T15:49:05.139Z"
+updatedAt: "2017-11-19T15:59:25.519Z"
