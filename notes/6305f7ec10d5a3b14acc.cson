@@ -1,0 +1,25 @@
+type: "MARKDOWN_NOTE"
+folder: "3bc2e5294a171f32f506"
+title: "Vs Code vim colors"
+content: '''
+  ## Vs Code vim colors
+  
+  "vim.statusBarColors": {
+          "normal": "#005f5f",
+          "insert": "#5f0000",
+          "visual": "#5f00af",
+          "visualline": "#005f87",
+          "visualblock": "#86592d",
+          "replace": "#000000"
+      },
+      "workbench.colorCustomizations": {
+          "statusBar.background": "#5f00af",
+          "statusBar.noFolderBackground": "#5f00af",
+          "statusBar.debuggingBackground": "#5f00af"
+      },
+'''
+tags: []
+isStarred: false
+isTrashed: false
+createdAt: "2017-11-20T20:08:48.273Z"
+updatedAt: "2017-11-20T20:09:13.674Z"
