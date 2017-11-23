@@ -17,9 +17,42 @@ content: '''
           "statusBar.noFolderBackground": "#5f00af",
           "statusBar.debuggingBackground": "#5f00af"
       },
+      
+      
+  #### Work settings
+  
+  {
+    "workbench.colorCustomizations": {
+      "statusBar.background": "#5f00af",
+      "statusBar.noFolderBackground": "#5f00af",
+      "statusBar.debuggingBackground": "#5f00af"
+    },
+    "files.associations": {
+      "*.module": "php",
+      "*.inc": "php"
+    },
+    "workbench.colorTheme": "Nova",
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "boundary",
+    "editor.lineNumbers": "relative",
+    "workbench.editor.showTabs": false,
+    "vim.leader": ",",
+    "vim.useSystemClipboard": true,
+    "vim.easymotion": true,
+    "vim.statusBarColorControl": true,
+    "vim.statusBarColors": {
+      "normal": "#005f5f",
+      "insert": "#5f0000",
+      "visual": "#5f00af",
+      "visualline": "#005f87",
+      "visualblock": "#86592d",
+      "replace": "#000000"
+    },
+    "editor.minimap.enabled": false
+  }
 '''
 tags: []
 isStarred: false
 isTrashed: false
 createdAt: "2017-11-20T20:08:48.273Z"
-updatedAt: "2017-11-20T20:09:13.674Z"
+updatedAt: "2017-11-22T11:27:57.328Z"
